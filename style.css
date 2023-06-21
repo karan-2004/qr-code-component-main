@@ -65,3 +65,10 @@ body {
     text-align: center;
     opacity: 0.4;
 }
+
+
+@media (max-width: 576px) {
+    #card {
+        margin: 10%;
+    }
+}
