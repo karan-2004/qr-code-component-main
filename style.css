@@ -5,6 +5,7 @@ body {
 
 #card {
     margin: auto;
+    margin-top: 25%;
     padding: 20px;
     background-color: white;
     /* border: 4px solid green; */
